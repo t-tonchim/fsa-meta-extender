@@ -42,9 +42,9 @@ const fooAction = arg => { type: FOO, payload: arg }
 export default mapExtraMeta({ fooAction })
 
 /*
-fooAction
+actions.fooAction
 => FOO
-fooAction('hello')
+actions.fooAction('hello')
 =>
 {
   type: FOO,
