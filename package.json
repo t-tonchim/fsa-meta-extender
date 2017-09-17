@@ -22,6 +22,8 @@
   "homepage": "https://github.com/tomoyuki-tanaka/fsa-meta-extender#readme",
   "devDependencies": {
     "babel-cli": "^6.26.0",
-    "babel-preset-stage-3": "^6.24.1"
+    "babel-eslint": "^8.0.0",
+    "babel-preset-stage-3": "^6.24.1",
+    "eslint": "^4.7.0"
   }
 }
