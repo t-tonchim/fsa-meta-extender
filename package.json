@@ -1,0 +1,27 @@
+{
+  "name": "fsa-meta-extender",
+  "version": "0.0.1",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "babel src --out-dir lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomoyuki-tanaka/fsa-meta-extender.git"
+  },
+  "keywords": [
+    "redux",
+    " flux-standard-action"
+  ],
+  "author": "tomoyuki-tanaka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tomoyuki-tanaka/fsa-meta-extender/issues"
+  },
+  "homepage": "https://github.com/tomoyuki-tanaka/fsa-meta-extender#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-stage-3": "^6.24.1"
+  }
+}
